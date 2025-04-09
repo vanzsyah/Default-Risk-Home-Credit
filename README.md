@@ -1,0 +1,2 @@
+# Default Risk Home Credit
+ Proyek ini merupakan bagian dari program Project-Based Virtual Internship Home Credit Indonesia x Rakamin Academy yang berfokus pada analisis dan prediksi risiko gagal bayar kredit (default risk) menggunakan data dari application_train.csv.  Tujuan utama dari proyek ini adalah membangun model machine learning untuk mengidentifikasi calon debitur yang berisiko gagal bayar, guna mendukung proses pengambilan keputusan dalam pemberian pinjaman.
